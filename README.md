@@ -61,5 +61,8 @@ This is the lab resources for SUSTech EE346.
    
    rosrun EE346-lab6 navigation_demo.py
    
+## 9. Stop the robot   
+   cd ~/catkin_ws/src/EE346-lab6/lab6/scripts/
+   python lane_following_reset.py 
 
 
